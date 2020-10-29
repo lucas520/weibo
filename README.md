@@ -1,3 +1,5 @@
+test 8
+
 ## 介绍
 
 这是一个与对接前端 [vue-xiaomi 传送地址](https://github.com/root-lucas/vue-xiaomi) 实现的前后端分离项目。
